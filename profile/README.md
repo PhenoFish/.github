@@ -4,4 +4,17 @@ Although they represent the largest diversity of vertebrates, we still lack comp
 
 The research project **PHENOFISH** was selected from the [2022 DataSHARE Joint Call](https://www.fondationbiodiversite.fr/en/calls/appel-a-projets-datashare-2022/) between the Centre for the Synthesis and Analysis of Biodiversity ([CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)) of the French Foundation for Biodiversity Research ([FRB](https://www.fondationbiodiversite.fr/en/)), the [LabEX TULIP](https://www.labex-tulip.fr/), the National Center for Biodiversity Data ([PNDB](https://www.pndb.fr)) and the challenge [BiodivOc](https://biodivoc.edu.umontpellier.fr), supported by the [Occitanie Region](https://www.laregion.fr) and the [University of Montpellier](https://www.umontpellier.fr/en/).
 
-The project is led by [**Nicolas LOISEAU**](https://umr-marbec.fr/membre/nicolas-loiseau/) (CNRS, France) and [**Sébastien BROSSE**](http://brosse.sebastien.free.fr/) (University Paul Sabatier, France).
+The project is led by [**Nicolas LOISEAU**](https://umr-marbec.fr/membre/nicolas-loiseau/) (CNRS, France) and [**Sébastien BROSSE**](http://brosse.sebastien.free.fr/) (University Paul Sabatier, France) and include:
+
+- Camille ALBOUY (ETH Zurich, Switzerland)
+- Lise COMTE (Illinois State University, USA)
+- Sarah FRIEDMAN (NOAA, USA)
+- Lisa JACQUIN (University Paul Sabatier, France)
+- Shaun KILLEN (University of Glasgow, United Kingdom)
+- Nicole MOORE (McGill University, Canada)
+- David MOUILLOT (University of Montpellier, France)
+- Nicolas MOUQUET (CNRS, France)
+- Valeriano PARRAVICINI (EPHE, France)
+- Jennifer SUNDAY (McGill University, Canada)
+- Michael VANNI (Miami University, USA)
+- Sébastien VILLEGER (CNRS, France)
