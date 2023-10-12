@@ -6,15 +6,57 @@ The research project **PHENOFISH** was selected from the [2022 DataSHARE Joint C
 
 The project is led by [**Nicolas LOISEAU**](https://umr-marbec.fr/membre/nicolas-loiseau/) (CNRS, France) and [**Sébastien BROSSE**](http://brosse.sebastien.free.fr/) (University Paul Sabatier, France) and include:
 
-- Camille ALBOUY (ETH Zurich, Switzerland)
-- Lise COMTE (Illinois State University, USA)
-- Sarah FRIEDMAN (NOAA, USA)
-- Lisa JACQUIN (University Paul Sabatier, France)
-- Shaun KILLEN (University of Glasgow, United Kingdom)
-- Nicole MOORE (McGill University, Canada)
-- David MOUILLOT (University of Montpellier, France)
-- Nicolas MOUQUET (CNRS, France)
-- Valeriano PARRAVICINI (EPHE, France)
-- Jennifer SUNDAY (McGill University, Canada)
-- Michael VANNI (Miami University, USA)
-- Sébastien VILLEGER (CNRS, France)
+<table>
+  <tr>
+    <td><b>Member</b></td>
+    <td><b>Affiliation</b></td>
+  </tr>
+  <tr>
+    <td>Camille ALBOUY</td>
+    <td>ETH Zurich, Switzerland</td>
+  </tr>
+  <tr>
+    <td>Lise COMTE</td>
+    <td>Illinois State University, USA</td>
+  </tr>
+  <tr>
+    <td>Sarah FRIEDMAN</td>
+    <td>NOAA, USA</td>
+  </tr>
+  <tr>
+    <td>Lisa JACQUIN</td>
+    <td>University Paul Sabatier, France</td>
+  </tr>
+  <tr>
+    <td>Shaun KILLEN</td>
+    <td>University of Glasgow, UK</td>
+  </tr>
+  <tr>
+    <td>Nicole MOORE</td>
+    <td>McGill University, Canada</td>
+  </tr>
+  <tr>
+    <td>David MOUILLOT</td>
+    <td>University of Montpellier, France</td>
+  </tr>
+  <tr>
+    <td>Nicolas MOUQUET</td>
+    <td>CNRS, France</td>
+  </tr>
+  <tr>
+    <td>Valeriano PARRAVICINI</td>
+    <td>EPHE, France</td>
+  </tr>
+  <tr>
+    <td>Jennifer SUNDAY</td>
+    <td>McGill University, Canada</td>
+  </tr>
+  <tr>
+    <td>Michael VANNI</td>
+    <td>Miami University, USA</td>
+  </tr>
+  <tr>
+    <td>Sébastien VILLEGER</td>
+    <td>CNRS, France</td>
+  </tr>
+</table>
