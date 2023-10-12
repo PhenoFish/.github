@@ -1,3 +1,3 @@
 ## Welcome to the **_PhenoFish_** code space :wave:
 
-Creating a global database of fish functional traits: integrating physiology and ecology across aquatic ecosystems
+Although they represent the largest diversity of vertebrates, we still lack comprehensive databases of fishes' traits. The **PHENOFISH** project aims to pool data on the biodiversity, morphology, behaviour and ecophysiology of marine and freshwater fishes that have never before been brought together. It brings together specialists in marine and freshwater ecology, spatial ecology (biogeography), ecophysiology, conservation ecology and behaviour. This complementarity in the characterisation of fish traits will advance our understanding of the processes, mechanisms and threats that influence fish species.
