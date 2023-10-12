@@ -1,4 +1,4 @@
-## Welcome to the **_PhenoFish_** code space :wave:
+## Welcome to the PHENOFISH space :wave:
 
 [![](https://raw.githubusercontent.com/PhenoFish/.github/main/profile/partners-banner.png)](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/phenofish/)
 
