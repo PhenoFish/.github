@@ -1,6 +1,6 @@
 ## Welcome to the **_PhenoFish_** code space :wave:
 
-![](partners-banner.png)
+![](https://raw.githubusercontent.com/PhenoFish/.github/main/profile/partners-banner.png)
 
 > The research project **PHENOFISH** was selected from the [2022 DataSHARE Joint Call](https://www.fondationbiodiversite.fr/en/calls/appel-a-projets-datashare-2022/) between the Centre for the Synthesis and Analysis of Biodiversity ([CESAB](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/)) of the French Foundation for Biodiversity Research ([FRB](https://www.fondationbiodiversite.fr/en/)), the [LabEX TULIP](https://www.labex-tulip.fr/), the National Center for Biodiversity Data ([PNDB](https://www.pndb.fr)) and the challenge [BiodivOc](https://biodivoc.edu.umontpellier.fr), supported by the [Occitanie Region](https://www.laregion.fr) and the [University of Montpellier](https://www.umontpellier.fr/en/).
 
