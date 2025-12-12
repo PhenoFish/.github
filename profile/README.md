@@ -14,51 +14,71 @@ The **PHENOFISH** project aims to pool data on the biodiversity, morphology, beh
     <td><b>Affiliation</b></td>
   </tr>
   <tr>
-    <td>Camille ALBOUY</td>
-    <td>ETH Zurich, Switzerland</td>
-  </tr>
-  <tr>
-    <td>Lise COMTE</td>
+    <td>COMTE Lise</td>
     <td>Illinois State University, USA</td>
   </tr>
   <tr>
-    <td>Sarah FRIEDMAN</td>
+    <td>FLANDRIN Ulysse</td>
+    <td>University of Montpellier, FR</td>
+  </tr>
+  <tr>
+    <td>FRIEDMAN Sarah</td>
     <td>NOAA, USA</td>
   </tr>
   <tr>
-    <td>Lisa JACQUIN</td>
-    <td>University Paul Sabatier, France</td>
+    <td>JUANES Francis</td>
+    <td>University of Victoria, USA</td>
   </tr>
   <tr>
-    <td>Shaun KILLEN</td>
+    <td>KILLEN Shaun</td>
     <td>University of Glasgow, UK</td>
   </tr>
   <tr>
-    <td>Nicole MOORE</td>
+    <td>LEIVA Félix</td>
+    <td>Radboud University, The Netherlands</td>
+  </tr>
+  <tr>
+    <td>MAIRE Antony</td>
+    <td>EDF, FR</td>
+  </tr>
+  <tr>
+    <td>MOORE Nicole</td>
     <td>McGill University, Canada</td>
   </tr>
   <tr>
-    <td>David MOUILLOT</td>
+    <td>MOUILLOT David</td>
     <td>University of Montpellier, France</td>
   </tr>
   <tr>
-    <td>Nicolas MOUQUET</td>
+    <td>MOUQUET Nicolas</td>
     <td>CNRS, France</td>
   </tr>
   <tr>
-    <td>Valeriano PARRAVICINI</td>
+    <td>PARRAVICINI Valeriano</td>
     <td>EPHE, France</td>
   </tr>
   <tr>
-    <td>Jennifer SUNDAY</td>
+    <td>RUIZ Eliot</td>
+    <td>University of Montpellier, FR</td>
+  </tr>
+  <tr>
+    <td>SUNDAY Jennifer</td>
     <td>McGill University, Canada</td>
   </tr>
   <tr>
-    <td>Michael VANNI</td>
+    <td>TOUSSAINT Aurèle</td>
+    <td>CNRS, FR</td>
+  </tr>
+    <tr>
+    <td>VANNI Michael</td>
     <td>Miami University, USA</td>
   </tr>
-  <tr>
-    <td>Sébastien VILLEGER</td>
+    <tr>
+     <td>VILLEGER Sébastien</td>
     <td>CNRS, France</td>
+  </tr>
+  <tr>
+    <td>WANG Yan</td>
+    <td>University of Toulouse, FR</td>
   </tr>
 </table>
